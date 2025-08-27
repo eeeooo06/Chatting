@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\",
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\Chatting\\ChatServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\ServerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|C:\\C\u002B\u002B\\Chatting\\ChatServer\\ServerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|solutionrelative:ServerMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\Net.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|C:\\C\u002B\u002B\\Chatting\\ChatServer\\Net.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|solutionrelative:Net.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|C:\\C\u002B\u002B\\Chatting\\ChatServer\\Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{157ACF36-25F2-4CF9-A27B-AA968F1D2AD9}|ChatServer.vcxproj|solutionrelative:Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Net.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\Net.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Chatting\\ChatServer\\Net.cpp",
               "RelativeDocumentMoniker": "Net.cpp",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\Net.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Chatting\\ChatServer\\Net.cpp",
               "RelativeToolTip": "Net.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Net.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\Net.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Chatting\\ChatServer\\Net.h",
               "RelativeDocumentMoniker": "Net.h",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\Net.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Chatting\\ChatServer\\Net.h",
               "RelativeToolTip": "Net.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ServerMain.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\ServerMain.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Chatting\\ChatServer\\ServerMain.cpp",
               "RelativeDocumentMoniker": "ServerMain.cpp",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\DirectX\\ChatServer\\ServerMain.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Chatting\\ChatServer\\ServerMain.cpp",
               "RelativeToolTip": "ServerMain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-26T08:35:41.422Z",
               "EditorCaption": ""

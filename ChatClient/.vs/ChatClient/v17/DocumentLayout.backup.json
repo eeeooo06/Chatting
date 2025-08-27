@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\",
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\Chatting\\ChatClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\ClientMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|C:\\C\u002B\u002B\\Chatting\\ChatClient\\ClientMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|solutionrelative:ClientMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\Net.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|C:\\C\u002B\u002B\\Chatting\\ChatClient\\Net.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|solutionrelative:Net.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|C:\\C\u002B\u002B\\Chatting\\ChatClient\\Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9311C179-A962-4CDC-8E18-73DD65DA5FA8}|ChatClient.vcxproj|solutionrelative:Net.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Net.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\Net.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Chatting\\ChatClient\\Net.cpp",
               "RelativeDocumentMoniker": "Net.cpp",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\Net.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Chatting\\ChatClient\\Net.cpp",
               "RelativeToolTip": "Net.cpp",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAhwMIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-26T08:36:26.113Z",
               "EditorCaption": ""
@@ -41,23 +41,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Net.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\Net.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Chatting\\ChatClient\\Net.h",
               "RelativeDocumentMoniker": "Net.h",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\Net.h",
+              "ToolTip": "C:\\C\u002B\u002B\\Chatting\\ChatClient\\Net.h",
               "RelativeToolTip": "Net.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-26T08:36:07.223Z"
+              "WhenOpened": "2025-08-26T08:36:07.223Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientMain.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\ClientMain.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\Chatting\\ChatClient\\ClientMain.cpp",
               "RelativeDocumentMoniker": "ClientMain.cpp",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\DirectX\\ChatClient\\ClientMain.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\Chatting\\ChatClient\\ClientMain.cpp",
               "RelativeToolTip": "ClientMain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-26T08:35:33.2Z",
               "EditorCaption": ""

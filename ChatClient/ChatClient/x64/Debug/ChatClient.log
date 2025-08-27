@@ -1,2 +1,1 @@
-﻿  ClientMain.cpp
-  ChatClient.vcxproj -> C:\Users\USER\Desktop\DirectX\ChatClient\x64\Debug\ChatClient.exe
+﻿LINK : fatal error LNK1168: cannot open C:\C++\Chatting\ChatClient\x64\Debug\ChatClient.exe for writing
